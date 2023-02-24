@@ -1,4 +1,4 @@
-<h2>👋 Greetings! <img src="https://cdn160.picsart.com/upscale-278626435004211.png" alt="sleeping sakamoto" height="35px" align="right"></h2>
+<h2>👋 Greetings! <img src="https://cdn160.picsart.com/upscale-278626435004211.png" alt="sleeping sakamoto" height="45px" align="right"></h2>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=E-rhari)
 ```python
