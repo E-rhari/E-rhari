@@ -23,4 +23,3 @@ eRhari.greet()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-rhari&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-rhari&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://64.media.tumblr.com/353bdd9f416e49a9b013e7876163e518/b32531cd71fec458-a9/s640x960/e35ed593411d186a191f577d215759273b46d2c2.gif" width="150px">
