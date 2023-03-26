@@ -13,7 +13,7 @@ class ITstudent():
       self.school = "CEFET/RJ"
       
    def greet(self):
-      print("Welcome to my profile. Make yourself home, and oh please excuse the mess.") 
+      print("Welcome to my profile. Make yourself at home, and oh please excuse the mess.") 
       
 
 eRhari = ITstudent()
