@@ -5,19 +5,24 @@
 # -*- coding: utf-8 -*-
 # Created on Thu Feb  23 19:58:13 2023
 
-class ITstudent():
+class ITStudent():
     def __init__(self):
       self.name = "Evandro Rhari"
       self.spokenLanguages = ["pt_BR", "en"]
-      self.code = [Cpp, Python, HTML, CSS]
+      self.code = ["Cpp", "Python", "HTML", "CSS"]
       self.school = "CEFET/RJ"
       
-   def greet(self):
+    def learn(self, *learning):
+      for subject in learning:
+        self.code.append(subject)
+      
+    def greet(self):
       print("Welcome to my profile. Make yourself at home, and oh please excuse the mess.") 
       
 
 eRhari = ITstudent()
 eRhari.greet()
+eRhari.learn("PHP", "JavaScript")
 ```
 <h2>Git Stats:<h2>
 
