@@ -20,7 +20,7 @@ class ITStudent():
       print("Welcome to my profile. Make yourself at home, and oh please excuse the mess.") 
       
 
-eRhari = ITstudent()
+eRhari = ITStudent()
 eRhari.greet()
 eRhari.learn("PHP", "JavaScript")
 ```
