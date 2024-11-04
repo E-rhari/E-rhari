@@ -10,7 +10,7 @@ class ERhari():
       self.name = "Evandro Rhari"
       self.spokenLanguages = ["pt_BR", "en"]
       self.code = ["CSharp", "Python","PHP", "JavaScript", "Cpp", "HTML", "CSS", "SQL"]
-      self.tools = ["Docker", "Django"]
+      self.tools = ["Docker", "Django", "Unity"]
       self.school = "CEFET/RJ"
       
     def learnCode(self, *learning):
