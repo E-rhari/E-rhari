@@ -5,14 +5,15 @@
 # -*- coding: utf-8 -*-
 # Created on Thu Feb  23 19:58:13 2023
 
-class ITStudent():
+class ERhari():
     def __init__(self):
       self.name = "Evandro Rhari"
       self.spokenLanguages = ["pt_BR", "en"]
-      self.code = ["Cpp", "Python", "HTML", "CSS"]
+      self.code = ["CSharp","PHP", "JavaScript", "Cpp", "Python", "HTML", "CSS", "SQL"]
+      self.tools = ["Docker", "Django"]
       self.school = "CEFET/RJ"
       
-    def learn(self, *learning):
+    def learnCode(self, *learning):
       for subject in learning:
         self.code.append(subject)
       
@@ -20,9 +21,9 @@ class ITStudent():
       print("Welcome to my profile. Make yourself at home, and oh please excuse the mess.") 
       
 
-eRhari = ITStudent()
+eRhari = ERhari()
 eRhari.greet()
-eRhari.learn("PHP", "JavaScript")
+eRhari.learnCode("Java")
 ```
 <h2>Git Stats:<h2>
 
