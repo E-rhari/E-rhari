@@ -9,7 +9,7 @@ class ERhari():
     def __init__(self):
       self.name = "Evandro Rhari"
       self.spokenLanguages = ["pt_BR", "en"]
-      self.code = ["CSharp","PHP", "JavaScript", "Cpp", "Python", "HTML", "CSS", "SQL"]
+      self.code = ["CSharp", "Python","PHP", "JavaScript", "Cpp", "HTML", "CSS", "SQL"]
       self.tools = ["Docker", "Django"]
       self.school = "CEFET/RJ"
       
