@@ -9,9 +9,9 @@ class ERhari():
     def __init__(self):
       self.name = "Evandro Rhari"
       self.spokenLanguages = ["pt_BR", "en"]
-      self.code = ["CSharp", "Python","PHP", "JavaScript", "Cpp", "HTML", "CSS", "SQL"]
+      self.code = ["CSharp", "Python", "PHP", "JavaScript", "Cpp", "HTML", "CSS", "SQL"]
       self.tools = ["Docker", "Django", "Unity"]
-      self.school = "CEFET/RJ"
+      self.university = "UFRJ"
       
     def learnCode(self, *learning):
       for subject in learning:
